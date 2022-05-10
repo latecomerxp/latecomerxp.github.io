@@ -1,8 +1,8 @@
 ## Welcome to The Latecomer Experience 
 
-You can use the [editor on GitHub](https://github.com/latecomerxp/latecomerxp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there!
 
-You can find me in all these [platforms](https://linktr.ee/latecomerxp)
+[All My Social Feeds](https://linktr.ee/latecomerxp)
 
 ![](https://images.unsplash.com/photo-1533850595620-7b1711221751?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1890&q=80)
 
