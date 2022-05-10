@@ -2,7 +2,7 @@
 
 Hi there!
 
-[All My Social Feeds](https://linktr.ee/latecomerxp)
+Great to meet you here, this is [@latecomerxp](https://linktr.ee/latecomerxp).
 
 ![](https://images.unsplash.com/photo-1533850595620-7b1711221751?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1890&q=80)
 
@@ -64,5 +64,4 @@ I guess, maybe, just maybe, we could sail and even dance together in the journey
 Great to meet you here and talk to you soon! 
 
 Cheers,
-
-一个还不大会的小白
+@latecomerXP
